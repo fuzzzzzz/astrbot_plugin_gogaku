@@ -1,5 +1,5 @@
-name: 日语学习助手 # 这是你的插件的唯一识别名。
-desc: 提供日语学习、签到、JLPT刷题、积分排行等功能的群聊插件。 # 插件简短描述
-version: 1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: fuz # 作者
-repo: https://github.com/Soulter/helloworld # 插件的仓库地址
+name: 日语学习助手
+desc: 提供日语学习、签到、JLPT刷题、积分排行等功能的群聊插件。
+version: 1.0.0
+author: fuz
+repo: https://github.com/fuzzzzzz/astrbot_plugin_gogaku
