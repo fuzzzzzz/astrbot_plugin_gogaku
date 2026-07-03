@@ -2,10 +2,6 @@
 
 > 🇯🇵 一个面向日语学习者的互动型群组学习插件，集签到、刷题、背词与积分系统于一体，让学习更有动力、更有趣、更社交化。
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=fuzzzzzz/astrbot_plugin_gogaku&type=Date)](https://star-history.com/#fuzzzzzz/astrbot_plugin_gogaku&Date)
-
 ## 功能特性
 
 - ✅ **每日签到** — 每天打卡记录学习进度，养成学习习惯
@@ -50,3 +46,7 @@
 ## License
 
 MIT License — 详见 [LICENSE](LICENSE) 文件。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=fuzzzzzz/astrbot_plugin_gogaku&type=Date)](https://star-history.com/#fuzzzzzz/astrbot_plugin_gogaku&Date)
